@@ -1,4 +1,4 @@
-# This capability has moved to the SAF CLI. This reporter is ***now depercated***.
+# This capability has moved to the SAF CLI. This reporter is ***now deprecated***.
 
 Please use the SAF CLI Attest capability.
 
